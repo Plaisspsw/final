@@ -1,0 +1,7 @@
+skuba@skuba:~$ mkdir test_folder
+skuba@skuba:~$ ls
+skuba@skuba:~$ cd test_folder
+skuba@skuba:~/test_folder$ touch ROBOT_CLASS.txt
+skuba@skuba:~/test_folder$ :>ROBOT_CLASS.txt
+skuba@skuba:~/test_folder$ ls
+
